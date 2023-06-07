@@ -66,6 +66,13 @@ Once the model is trained, pseudomasks can be generated using `generate_pseudoma
 
 To obtain better results, a refinement step can be performed by training a standard UNet model for a few epochs on the generated pseudomasks.
 
+# Acknowledging this work
+
+If you would like to cite our work, please use the following reference:
+
+* Hanna, J., Mommert, M., & Borth, D. (2023). Sparse Multimodal Vision Transformer for Weakly Supervised Semantic Segmentation, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2023, pp. 2144-2153
+
+
 # Code
 This repository incorporates code from the following sources:
 * [Data handling](https://github.com/lukasliebel/dfc2020_baseline)

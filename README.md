@@ -1,7 +1,10 @@
 # Sparse Vision Transformer for WSSS
 
 This is the repository for the following paper:
-*  Sparse Multimodal Vision Transformer for Weakly Supervised Semantic Segmentation
+*  [Sparse Multimodal Vision Transformer for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/html/Hanna_Sparse_Multimodal_Vision_Transformer_for_Weakly_Supervised_Semantic_Segmentation_CVPRW_2023_paper.html)
+
+Read the [blog post](https://hsg-aiml.github.io/2023/06/13/Sparse_Multimodal_Vision_Transformer_for_Weakly_Supervised_Semantic_Segmentation.html) for the details!
+
 
 Table of Contents
 =================
